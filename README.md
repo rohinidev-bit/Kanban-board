@@ -1,3 +1,7 @@
+# Add title to your board, task 
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/46785912/119541867-8b0f6a80-bdac-11eb-8260-f083691ebdd7.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
